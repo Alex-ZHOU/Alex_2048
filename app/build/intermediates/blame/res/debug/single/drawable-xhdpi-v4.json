@@ -16,16 +16,16 @@
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+        "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
         "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
+        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_holo_dark.9.png",
@@ -48,20 +48,20 @@
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_tab_selected_holo.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_light_holo.9.png",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_holo_light.png",
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_holo_light.png",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
+        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
         "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_dark_holo.9.png",
@@ -72,12 +72,12 @@
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search.png",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_search.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_dark.png",
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search.png",
+        "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-xhdpi\\abc_ic_search.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_solid_light_holo.9.png",
