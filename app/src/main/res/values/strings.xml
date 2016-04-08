@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alex_2048</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="scoreTitle">Score</string>
+    <string name="back">Back</string>
+    <string name="restart">Restart</string>
+
+</resources>

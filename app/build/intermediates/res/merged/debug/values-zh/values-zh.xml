@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Alex_2048</string>
+    <string name="back">返回</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="restart">重新开始</string>
+    <string name="scoreTitle">分数</string>
+</resources>
