@@ -1,3 +1,7 @@
 <component name="CopyrightManager">
-  <settings default="" />
+  <settings default="AlexCopyright">
+    <module2copyright>
+      <element module="All" copyright="AlexCopyright" />
+    </module2copyright>
+  </settings>
 </component>
