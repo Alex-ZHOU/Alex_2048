@@ -645,10 +645,11 @@ containing a value of this type.
         public static final int abc_split_action_bar_is_narrow=0x7f050002;
     }
     public static final class color {
-        public static final int abc_search_url_text_holo=0x7f0a0003;
-        public static final int abc_search_url_text_normal=0x7f0a0000;
-        public static final int abc_search_url_text_pressed=0x7f0a0001;
-        public static final int abc_search_url_text_selected=0x7f0a0002;
+        public static final int SquareTextColor=0x7f0a0000;
+        public static final int abc_search_url_text_holo=0x7f0a0004;
+        public static final int abc_search_url_text_normal=0x7f0a0001;
+        public static final int abc_search_url_text_pressed=0x7f0a0002;
+        public static final int abc_search_url_text_selected=0x7f0a0003;
     }
     public static final class dimen {
         public static final int abc_action_bar_default_height=0x7f060000;
@@ -776,7 +777,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0b002f;
         public static final int action_mode_bar_stub=0x7f0b002e;
         public static final int action_mode_close_button=0x7f0b0022;
-        public static final int action_settings=0x7f0b0058;
+        public static final int action_settings=0x7f0b0057;
         public static final int activity_chooser_view_content=0x7f0b0023;
         public static final int always=0x7f0b0011;
         public static final int beginning=0x7f0b000d;
@@ -807,7 +808,6 @@ containing a value of this type.
         public static final int progress_circular=0x7f0b0034;
         public static final int progress_horizontal=0x7f0b0035;
         public static final int radio=0x7f0b002d;
-        public static final int relativeLayout_chessGame=0x7f0b0047;
         public static final int right_container=0x7f0b0032;
         public static final int right_icon=0x7f0b0033;
         public static final int search_badge=0x7f0b0038;
@@ -830,22 +830,22 @@ containing a value of this type.
         public static final int title=0x7f0b0029;
         public static final int title_container=0x7f0b0030;
         public static final int top_action_bar=0x7f0b001e;
-        public static final int tv_0_0=0x7f0b0048;
-        public static final int tv_0_1=0x7f0b0049;
-        public static final int tv_0_2=0x7f0b004a;
-        public static final int tv_0_3=0x7f0b004b;
-        public static final int tv_1_0=0x7f0b004c;
-        public static final int tv_1_1=0x7f0b004d;
-        public static final int tv_1_2=0x7f0b004e;
-        public static final int tv_1_3=0x7f0b004f;
-        public static final int tv_2_0=0x7f0b0050;
-        public static final int tv_2_1=0x7f0b0051;
-        public static final int tv_2_2=0x7f0b0052;
-        public static final int tv_2_3=0x7f0b0053;
-        public static final int tv_3_0=0x7f0b0054;
-        public static final int tv_3_1=0x7f0b0055;
-        public static final int tv_3_2=0x7f0b0056;
-        public static final int tv_3_3=0x7f0b0057;
+        public static final int tv_0_0=0x7f0b0047;
+        public static final int tv_0_1=0x7f0b0048;
+        public static final int tv_0_2=0x7f0b0049;
+        public static final int tv_0_3=0x7f0b004a;
+        public static final int tv_1_0=0x7f0b004b;
+        public static final int tv_1_1=0x7f0b004c;
+        public static final int tv_1_2=0x7f0b004d;
+        public static final int tv_1_3=0x7f0b004e;
+        public static final int tv_2_0=0x7f0b004f;
+        public static final int tv_2_1=0x7f0b0050;
+        public static final int tv_2_2=0x7f0b0051;
+        public static final int tv_2_3=0x7f0b0052;
+        public static final int tv_3_0=0x7f0b0053;
+        public static final int tv_3_1=0x7f0b0054;
+        public static final int tv_3_2=0x7f0b0055;
+        public static final int tv_3_3=0x7f0b0056;
         public static final int tv_addScore=0x7f0b0044;
         public static final int tv_score=0x7f0b0043;
         public static final int tv_scoreTitle=0x7f0b0042;
@@ -882,7 +882,8 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030016;
         public static final int abc_search_view=0x7f030017;
         public static final int activity_main=0x7f030018;
-        public static final int support_simple_spinner_dropdown_item=0x7f030019;
+        public static final int chessgame=0x7f030019;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001a;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;

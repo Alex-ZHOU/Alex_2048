@@ -22,9 +22,6 @@ import android.os.Bundle;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.Window;
-import android.view.WindowManager;
-
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -50,12 +47,10 @@ public class MainActivity2048 extends Activity implements OnClickListener {
 
   private Handler2048 handler2048;
 
-  @Override protected void onCreate(Bundle savedInstanceState) {
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
-
-    // 去掉标题栏
-    //this.requestWindowFeature(Window.FEATURE_NO_TITLE);
 
     tv_score = (TextView) findViewById(R.id.tv_score);
     tv_addScore = (TextView) findViewById(R.id.tv_addScore);
@@ -75,6 +70,7 @@ public class MainActivity2048 extends Activity implements OnClickListener {
     tv[3][1] = (TextView) findViewById(R.id.tv_3_1);
     tv[3][2] = (TextView) findViewById(R.id.tv_3_2);
     tv[3][3] = (TextView) findViewById(R.id.tv_3_3);
+
     btn_restart = (Button) findViewById(R.id.btn_restart);
     btn_back = (Button) findViewById(R.id.btn_back);
 
@@ -93,7 +89,8 @@ public class MainActivity2048 extends Activity implements OnClickListener {
     score = 0;
   }
 
-  @Override public boolean onTouchEvent(MotionEvent event) {
+  @Override
+  public boolean onTouchEvent(MotionEvent event) {
 
     // ViewDragHelper.
 
@@ -139,12 +136,21 @@ public class MainActivity2048 extends Activity implements OnClickListener {
     return super.onTouchEvent(event);
   }
 
-  @Override public void onClick(View v) {
-    if (v.equals(btn_restart)) {
-      init2();
+  @Override
+  public void onClick(View v) {
+    switch (v.getId()) {
+      case R.id.btn_restart:
+        init2();
+        break;
+      case R.id.btn_back:
+        Toast.makeText(getApplicationContext(), "按钮无效", Toast.LENGTH_SHORT).show();
+        break;
     }
-    if (v.equals(btn_back)) {
-      Toast.makeText(getApplicationContext(), "按钮无效", Toast.LENGTH_SHORT).show();
-    }
+    //if (v.equals(btn_restart)) {
+    //  init2();
+    //}
+    //if (v.equals(btn_back)) {
+    //  Toast.makeText(getApplicationContext(), "按钮无效", Toast.LENGTH_SHORT).show();
+    //}
   }
 }

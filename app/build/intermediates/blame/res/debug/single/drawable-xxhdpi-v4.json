@@ -1,18 +1,10 @@
 [
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\background_4x4.png",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\src\\main\\res\\drawable-xxhdpi\\background_4x4.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\background_4x4.png",
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\drawable-xxhdpi\\background_4x4.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
 ]

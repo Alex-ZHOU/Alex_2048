@@ -4,10 +4,6 @@
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_in_bottom.xml"
     },
@@ -20,10 +16,6 @@
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\anim\\translate.xml"
     },
@@ -32,35 +24,11 @@
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_fade_out.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale.xml",
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\anim\\scale.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\src\\main\\res\\anim\\translate.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "D:\\AndroidStudioProjects\\Alex_2048\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale.xml",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\src\\main\\res\\anim\\scale.xml"
-    },
-    {
-        "merged": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "D:\\AndroidStudioProjects\\Alex_2048_2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\anim\\abc_fade_in.xml"
     }
 ]
