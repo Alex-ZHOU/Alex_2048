@@ -1,0 +1,2449 @@
+<changelist name="unnamed" date="1460050915211" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/unnamed.patch" />
+  <option name="DESCRIPTION" value="" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_cab_done_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_dark.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_light_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$styleable.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$styleable.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_bottom_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_light_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_dark_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go_search_api_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_bottom_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$anim.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_cab_done_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_share_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_pressed_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go_search_api_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_share_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/classes.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_ab_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/Animation2048$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Animation2048$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_bottom_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_stacked_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_light_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/ic_launcher.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_light_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_focused_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_dropdown_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_ab_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_right_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_bottom_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_light_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_dark_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_light_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_light_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_ab_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_cab_done_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_dark1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_light_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$string.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$string.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_stacked_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_light_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_stacked_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_light_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_stacked_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_light_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_bottom_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_light_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_dark_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/ic_launcher1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_ab_back_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_longpressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_longpressed_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_right_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$integer.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$style.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$style.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_selected_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_top_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/resources-debug.ap_" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/resources-debug.ap_" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go_search_api_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_cab_done_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_disabled.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_disabled.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_light_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/pre-dexed/debug/Alex_utils_94a1ea83cfe255f7f41531d79e2bf6994f094d6b.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Alex_utils_94a1ea83cfe255f7f41531d79e2bf6994f094d6b.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_dropdown_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/internal_impl-22.2.1.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_cab_done_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_light_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_voice_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search_api_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_ab_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_light_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".gradle/2.8/taskArtifacts/outputFileStates.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/outputFileStates.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search_api_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_search_api_disabled_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_disabled_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_voice_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search_api_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_stacked_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_dark_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_right_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_light_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_selected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_pressed_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/Animation2048.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Animation2048.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_stacked_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_dark_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_unselected_pressed_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/Animation2048$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Animation2048$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_dark_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_divider_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/outputs/apk/app-debug.apk" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/app-debug.apk" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_voice_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search_api_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_stacked_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_light_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_unselected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_unselected_pressed_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$bool.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_right_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_go.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_dark_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_share_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$style1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_focused_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_selected_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_light.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_top_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_light_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_disabled_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_dark_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-mdpi/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/ic_launcher2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_right_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_focused_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_longpressed_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_selected_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_light_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_normal.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_normal.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_go.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_pressed_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_ab_back_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_light_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_commit_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_cab_done_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$color.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_light_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$drawable.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$drawable.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$layout.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$layout.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_go_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go_search_api_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".gradle/2.8/taskArtifacts/taskArtifacts.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/taskArtifacts.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/BuildConfig.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/BuildConfig.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_clear_disabled.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_disabled1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/libs/Alex_utils.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Alex_utils.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_ab_back_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_dark.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$integer.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$integer1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/compileDebugAidl/dependency.store" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/dependency.store" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_dark.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_dropdown_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_bottom_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_share_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_dark1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_dark_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_dark_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_focused_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_top_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_stacked_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_dark_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_light.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_longpressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_longpressed_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_dark.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/ic_launcher3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_disabled_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_cab_done_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_dark2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_dark_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_dark_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_share_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_dark2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$dimen.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$dimen.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_disabled.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_disabled2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_focused_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_dark1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_go_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go_search_api_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_divider_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_cab_done_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_dark3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_dark3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_dark1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_go_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go_search_api_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".gradle/2.8/taskArtifacts/cache.properties.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/cache.properties.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_bottom_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/resources-debug-androidTest.ap_" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/resources-debug-androidTest.ap_" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_cab_done_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/Color2048.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Color2048.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$anim.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$anim1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_voice_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_light_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_dark_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_dropdown_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-18.0.0_d6198cc7026983df58968d6a289892f3f28f3989.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/com.android.support-appcompat-v7-18.0.0_d6198cc7026983df58968d6a289892f3f28f3989.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_right_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_divider_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-xhdpi/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/ic_launcher4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$string1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/Animation2048$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Animation2048$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_pressed_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-xxhdpi/background_4x4.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/background_4x4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_search_api_disabled_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_disabled_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_f88afe80b806934c62812f3ebc06d2ec404e9bda.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/internal_impl-22.2.1_f88afe80b806934c62812f3ebc06d2ec404e9bda.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_bottom_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_light_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_dark.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search_api_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_disabled.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_disabled3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_holo_light1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_top_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_hardkey_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_4x4.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/background_4x41.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_normal.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_normal1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_dark2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_ab_back_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_dark1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_bottom_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_dark_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_dark4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_dark2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_divider_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_unselected_pressed_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_bottom_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_dark_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_stacked_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_dark_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_share_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_dark5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_normal.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_normal2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_light_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_dark_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_selected_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_focused_holo.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_bottom_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_light_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_dark_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$drawable1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_bottom_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_dark_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_voice_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search_api_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/MainActivity2048.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/MainActivity2048.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/ic_launcher5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_ab_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/pre-dexed/debug/debug_619c23be7ccda99f6a75391e495e62a78e4a312b.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/debug_619c23be7ccda99f6a75391e495e62a78e4a312b.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_light_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_light.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_dark3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/Handler2048.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Handler2048.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_dropdown_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/dependency1.store" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_dark_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_stacked_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_dark_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_longpressed_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/Algorithm2048.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Algorithm2048.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_ab_back_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".gradle/2.8/taskArtifacts/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_cab_done_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_solid_dark_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_light_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".gradle/2.8/taskArtifacts/fileSnapshots.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/fileSnapshots.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_right_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_ab_back_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_go.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_dark.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_bottom_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_light_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_longpressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_longpressed_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_right_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_pressed_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_voice_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_disabled.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_disabled4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/ic_launcher6.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_ab_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_unselected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_unselected_pressed_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_dark_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_ab_back_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_dark2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$layout1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_commit_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_dark_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_divider_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_selected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_pressed_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/annotations.zip" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/annotations.zip" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_right_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_light.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_selected_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_focused_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search_api_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_right_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_focused_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_voice_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_disabled_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_dark_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_focused_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_dark3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_top_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search_api_holo_light2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_selected_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_light_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_ab_focused_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_dark.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_bottom_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_dark_holo.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_light.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_dark4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$attr.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search_api_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_go.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$id.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_share_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_disabled.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_disabled5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_pressed_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_hardkey_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_dark_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_cab_done_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_dark4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_focused_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$menu.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$menu.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_divider_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_unselected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_unselected_pressed_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_dark_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$styleable1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_selected_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_focused_holo.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_selected_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_focused_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/outputs/apk/app-debug-unaligned.apk" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/app-debug-unaligned.apk" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_light_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_unselected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_unselected_pressed_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_stacked_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_dark_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_holo_light3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_clear_normal.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_normal3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_selected_pressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_pressed_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_dark.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/Animation2048$4.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Animation2048$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_ab_back_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_dark3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_focused_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_cab_done_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_cab_done_holo_dark5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_bottom_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_bottom_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$attr.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$attr1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_dark_holo.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_bottom_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_dark_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search_api_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_divider_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_ab_focused_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_ab_back_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_dark4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_holo_light4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_6c54432e31a52c296210d654a713d9ff16d80956.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/support-annotations-22.2.1_6c54432e31a52c296210d654a713d9ff16d80956.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_disabled_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_selector_disabled_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_dark4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_go5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_right_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_light.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_default_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_dark_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$id.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$id1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="gradle/wrapper/gradle-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/gradle-wrapper.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-hdpi/ic_launcher.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/ic_launcher7.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_clear_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_4ec4cec098a7f3b88e390415467cc77aa209a10c.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/com.android.support-support-v4-22.2.1_4ec4cec098a7f3b88e390415467cc77aa209a10c.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_selected_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_ab_back_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_dark5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_cab_background_top_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_right_default_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_default_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_hardkey_panel_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$color.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$color1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$dimen1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_dropdown_panel_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_menu_dropdown_panel_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_dark_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_clear_search_api_disabled_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_clear_search_api_disabled_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_bottom_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_light_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_transparent_light_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_ab_focused_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_dark.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_bottom_transparent_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_bottom_transparent_dark_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_light_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_moreoverflow_normal_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_dark5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_default_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_share_pack_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_longpressed_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_voice_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_voice_search_api_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_ab_back_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_ab_back_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_ab_focused_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_spinner_ab_focused_holo_dark.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_stacked_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_light_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_focused_holo.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_search_api_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_search_api_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/classes/debug/com/alex_2048/R$bool.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/R$bool1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/classes1.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_light.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_menu_moreoverflow_normal_holo_light5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_solid_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_solid_light_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_selected_holo_light.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_textfield_search_right_selected_holo_light.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_transparent_light_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_commit_search_api_holo_dark.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ic_commit_search_api_holo_dark5.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_ab_stacked_solid_dark_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_focused_holo.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_tab_selected_focused_holo.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/abc_list_pressed_holo_dark.95.png" />
+  </binary>
+</changelist>

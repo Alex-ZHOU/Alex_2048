@@ -103,18 +103,12 @@
   </LinearLayout>
 
   <!-- 这就是棋盘 -->
-  <!--<RelativeLayout-->
-      <!--android:id="@+id/relativeLayout_chessGame"-->
-      <!--android:layout_width="290dp"-->
-      <!--android:layout_height="290dp"-->
-      <!--android:layout_centerInParent="true"-->
-      <!--android:background="@drawable/background_4x4"-->
-      <!--&gt;-->
+
     <include
+        android:id="@+id/relativeLayout_chessGame"
         android:layout_width="290dp"
         android:layout_height="290dp"
         android:layout_centerInParent="true"
         layout="@layout/chessgame"/>
-  <!--</RelativeLayout>-->
 
 </RelativeLayout>
