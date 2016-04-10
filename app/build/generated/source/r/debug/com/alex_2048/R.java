@@ -2272,8 +2272,9 @@ containing a value of this type.
         public static final int background_4x4=0x7f02004b;
         public static final int design_fab_background=0x7f02004c;
         public static final int design_snackbar_background=0x7f02004d;
-        public static final int ic_launcher=0x7f02004e;
-        public static final int notification_template_icon_bg=0x7f02004f;
+        public static final int ic_alex2048=0x7f02004e;
+        public static final int ic_launcher=0x7f02004f;
+        public static final int notification_template_icon_bg=0x7f020050;
     }
     public static final class id {
         public static final int action0=0x7f0b0092;
@@ -2526,18 +2527,19 @@ containing a value of this type.
         public static final int account=0x7f050014;
         public static final int action_settings=0x7f050015;
         public static final int app_name=0x7f050016;
-        public static final int appbar_scrolling_view_behavior=0x7f05001f;
+        public static final int appbar_scrolling_view_behavior=0x7f050020;
         public static final int back=0x7f050017;
-        public static final int bottom_sheet_behavior=0x7f050020;
-        public static final int character_counter_pattern=0x7f050021;
-        public static final int hello_world=0x7f050018;
-        public static final int login_in=0x7f050019;
-        public static final int password=0x7f05001a;
-        public static final int restart=0x7f05001b;
-        public static final int scoreTitle=0x7f05001c;
+        public static final int bottom_sheet_behavior=0x7f050021;
+        public static final int character_counter_pattern=0x7f050022;
+        public static final int exit=0x7f050018;
+        public static final int hello_world=0x7f050019;
+        public static final int login_in=0x7f05001a;
+        public static final int password=0x7f05001b;
+        public static final int restart=0x7f05001c;
+        public static final int scoreTitle=0x7f05001d;
         public static final int status_bar_notification_info_overflow=0x7f050013;
-        public static final int tourist=0x7f05001d;
-        public static final int welcome=0x7f05001e;
+        public static final int tourist=0x7f05001e;
+        public static final int welcome=0x7f05001f;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f080088;

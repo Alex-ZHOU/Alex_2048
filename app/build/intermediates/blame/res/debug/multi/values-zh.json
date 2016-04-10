@@ -23,14 +23,7 @@
                     "endOffset": 136
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 2,
-                        "startOffset": 760,
-                        "endColumn": 44,
-                        "endOffset": 802
-                    }
+                    "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
                 }
             },
             {
@@ -42,14 +35,7 @@
                     "endOffset": 183
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 2,
-                        "startOffset": 664,
-                        "endColumn": 44,
-                        "endOffset": 706
-                    }
+                    "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
                 }
             },
             {
@@ -69,20 +55,27 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 224,
-                    "endColumn": 52,
-                    "endOffset": 272
+                    "endColumn": 35,
+                    "endOffset": 255
                 },
                 "from": {
-                    "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
+                    "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1130,
+                        "endColumn": 33,
+                        "endOffset": 1161
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 277,
-                    "endColumn": 39,
-                    "endOffset": 312
+                    "startOffset": 260,
+                    "endColumn": 52,
+                    "endOffset": 308
                 },
                 "from": {
                     "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -92,9 +85,9 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 317,
+                    "startOffset": 313,
                     "endColumn": 39,
-                    "endOffset": 352
+                    "endOffset": 348
                 },
                 "from": {
                     "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -104,9 +97,9 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 357,
-                    "endColumn": 40,
-                    "endOffset": 393
+                    "startOffset": 353,
+                    "endColumn": 39,
+                    "endOffset": 388
                 },
                 "from": {
                     "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -116,9 +109,9 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 398,
-                    "endColumn": 41,
-                    "endOffset": 435
+                    "startOffset": 393,
+                    "endColumn": 40,
+                    "endOffset": 429
                 },
                 "from": {
                     "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -128,9 +121,9 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 440,
-                    "endColumn": 40,
-                    "endOffset": 476
+                    "startOffset": 434,
+                    "endColumn": 41,
+                    "endOffset": 471
                 },
                 "from": {
                     "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
@@ -140,9 +133,21 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 481,
+                    "startOffset": 476,
+                    "endColumn": 40,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 517,
                     "endColumn": 45,
-                    "endOffset": 522
+                    "endOffset": 558
                 },
                 "from": {
                     "file": "D:\\AndroidStudioProjects\\Alex_2048\\app\\src\\main\\res\\values-zh\\strings.xml"
