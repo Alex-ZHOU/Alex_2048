@@ -99,6 +99,7 @@ public class LoginInActivity2048 extends AppCompatActivity implements View.OnCli
         // FIXME: 2016/4/10
         intent = new Intent(LoginInActivity2048.this, MainActivity2048.class);
         startActivity(intent);
+
         finish();
         break;
       //点击了游客登录按钮

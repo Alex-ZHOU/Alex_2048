@@ -9,602 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="686f5c20-99a0-43c6-92ff-4f81ffa6b011" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\copyright\AlexCopyright.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Alex_utils.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Alex_utils_94a1ea83cfe255f7f41531d79e2bf6994f094d6b.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Algorithm2048.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Animation2048$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Animation2048$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Animation2048$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Animation2048$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Animation2048.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Color2048.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\Handler2048.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\MainActivity2048.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$anim1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$attr1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$bool1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$color1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$dimen1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$drawable1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$id1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$integer1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$layout1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$string1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$style1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R$styleable1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\R1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_dark_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_dark_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_dark_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_dark_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_dark_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_light_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_light_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_light_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_light_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_solid_light_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_dark_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_dark_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_dark_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_dark_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_dark_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_light_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_light_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_light_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_light_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_bottom_transparent_light_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_share_pack_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_dark_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_dark_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_dark_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_dark_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_dark_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_light_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_light_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_light_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_light_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_solid_light_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_dark_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_dark_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_dark_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_dark_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_dark_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_light_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_light_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_light_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_light_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_solid_light_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_dark_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_dark_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_dark_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_dark_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_dark_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_light_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_light_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_light_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_light_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_stacked_transparent_light_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_dark_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_dark_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_dark_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_dark_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_dark_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_light_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_light_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_light_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_light_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ab_transparent_light_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_bottom_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_cab_background_top_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_dark1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_dark2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_dark3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_dark4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_dark5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_ab_back_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_dark1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_dark2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_dark3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_dark4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_dark5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_cab_done_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_disabled1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_disabled2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_disabled3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_disabled4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_disabled5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_normal1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_normal2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_normal3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_disabled_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_disabled_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_disabled_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_disabled_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_disabled_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_disabled_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_clear_search_api_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_dark1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_dark2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_dark3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_dark4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_dark5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_commit_search_api_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go_search_api_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go_search_api_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go_search_api_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go_search_api_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_go_search_api_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_dark1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_dark2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_dark3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_dark4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_dark5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_moreoverflow_normal_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_dark1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_dark2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_dark3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_dark4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_dark5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_menu_share_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search_api_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search_api_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search_api_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search_api_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_search_api_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search_api_holo_light1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search_api_holo_light2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search_api_holo_light3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search_api_holo_light4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_ic_voice_search_api_holo_light5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_divider_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_focused_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_focused_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_focused_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_focused_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_focused_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_longpressed_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_longpressed_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_longpressed_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_longpressed_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_longpressed_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_pressed_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_list_selector_disabled_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_dropdown_panel_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_menu_hardkey_panel_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_default_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_disabled_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_focused_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_spinner_ab_pressed_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_focused_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_focused_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_focused_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_focused_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_focused_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_pressed_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_pressed_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_pressed_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_pressed_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_selected_pressed_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_unselected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_unselected_pressed_holo.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_unselected_pressed_holo.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_unselected_pressed_holo.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_unselected_pressed_holo.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_tab_unselected_pressed_holo.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_default_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_default_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_right_selected_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_dark.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_dark.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_dark.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_dark.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_dark.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_light.91.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_light.92.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_light.93.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_light.94.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\abc_textfield_search_selected_holo_light.95.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\annotations.zip" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\app-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\app-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\background_4x4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\background_4x41.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\cache.properties.lock" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\classes1.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\com.android.support-appcompat-v7-18.0.0_d6198cc7026983df58968d6a289892f3f28f3989.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\com.android.support-support-v4-22.2.1_4ec4cec098a7f3b88e390415467cc77aa209a10c.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\debug_619c23be7ccda99f6a75391e495e62a78e4a312b.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\dependency1.store" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\fileHashes.bin" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\fileSnapshots.bin" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\ic_launcher1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\ic_launcher2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\ic_launcher3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\ic_launcher4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\ic_launcher5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\ic_launcher6.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\ic_launcher7.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\internal_impl-22.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\internal_impl-22.2.1_f88afe80b806934c62812f3ebc06d2ec404e9bda.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\outputFileStates.bin" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\resources-debug-androidTest.ap_" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\resources-debug.ap_" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\support-annotations-22.2.1_6c54432e31a52c296210d654a713d9ff16d80956.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\taskArtifacts.bin" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\unnamed.patch" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\.idea\shelf\unnamed.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\AndroidStudioProjects\Alex_2048\app\app.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/alex_2048/test/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/alex_2048/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/alex_2048/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/alex_2048/BuildConfig.java" />
+    <list default="true" id="686f5c20-99a0-43c6-92ff-4f81ffa6b011" name="Default" comment="201604132011">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/alex_2048/LoginInActivity2048.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/alex_2048/LoginInActivity2048.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/alex_2048/MainActivity2048.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/alex_2048/MainActivity2048.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/color.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/menu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-land.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-land.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-land/values-land.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-land/values-land.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-large-v4/values-large-v4.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-large-v4/values-large-v4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v14.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w360dp-v13/values-w360dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w360dp-v13/values-w360dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w480dp-v13/values-w480dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w480dp-v13/values-w480dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w600dp-v13/values-w600dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w600dp-v13/values-w600dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-zh.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-zh/values-zh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Alex_2048.iws" />
@@ -639,17 +47,50 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex_2048/Animation2048.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity2048.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity2048.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex_2048/MainActivity2048.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8118081">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Handler2048.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex_2048/Handler2048.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="77" column="51" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginInActivity2048.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex_2048/LoginInActivity2048.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.40550238">
+              <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -659,6 +100,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -2290,6 +1736,7 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/alex_2048/MainActivity2048.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/alex_2048/LoginInActivity2048.java" />
       </list>
     </option>
   </component>
@@ -2503,7 +1950,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
@@ -2680,21 +2127,29 @@
       <option name="number" value="Default" />
       <updated>1460538207254</updated>
     </task>
+    <task id="LOCAL-00001" summary="201604132011">
+      <created>1460549524165</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1460549524165</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1924" height="1043" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922733" sideWeight="0.47863248" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32922733" sideWeight="0.50427353" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922733" sideWeight="0.50427353" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32922733" sideWeight="0.4957265" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922733" sideWeight="0.4957265" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922733" sideWeight="0.4957265" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2727,6 +2182,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="201604132011" />
+    <option name="LAST_COMMIT_MESSAGE" value="201604132011" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2812,18 +2271,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex_2048/Color2048.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30526316">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex_2048/Animation2048.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex_2048/Handler2048.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="51" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex_2048/MainActivity2048.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8118081">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex_2048/LoginInActivity2048.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40550238">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
           <folding />
         </state>
       </provider>
