@@ -2,11 +2,67 @@
 <items version="2" >
 
     <item
-        jar="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
         revision="23.0.3"
-        sha1="ce2c1b86f66f08daf642852eea0a1d0e879621df">
-        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5905a21f0ec9683836d4deb7afdc821943671c80.jar" />
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_adb13fbff12667d52f9df2360b55f88f0f442b6b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_11c9e429768e72c0e954f2b9db34b146cd3373a0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_ac1fac58c72b8086b65a61f19a93929007eb984b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_92adad4290c17e43bb93b0ae74e3ab3ae7e35fd3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_58756b9ab7ff1ce285cdbf0cc333f0da3efdb291.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_5c32a8a169d0916d28a6c23cef665e81b2e81d9d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_b4798761abee118dbd3e6f8153278b549b6c2f10.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_6f6b1cb84bd01ba63b8f8e0871db04ed4a92c33a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\Alex_2048\app\libs\Alex_utils.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a1fd61006c471071ecd98e230a82ceb909cb85e1">
+        <dex dex="D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\pre-dexed\debug\Alex_utils_6efe5fdd5d85b179e599cf9b9965642dc6fb3943.jar" />
     </item>
 
 </items>
