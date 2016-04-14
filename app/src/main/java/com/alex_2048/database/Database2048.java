@@ -29,6 +29,7 @@ import com.raizlabs.android.dbflow.annotation.Database;
 public class Database2048 {
 
     //数据库名称
+
     public static final String NANE = "Database2048";
     //数据库版本号
     public static final int VERSION = 1;
