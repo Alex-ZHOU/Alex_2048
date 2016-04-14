@@ -36,6 +36,7 @@ MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudi
 MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta5] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.github.Raizlabs.DBFlow\dbflow\3.0.0-beta5\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -70,6 +71,7 @@ MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Ale
 MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta5] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.github.Raizlabs.DBFlow\dbflow\3.0.0-beta5\AndroidManifest.xml:11:5-20
 	android:label
 		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:32:7-39
 	android:allowBackup

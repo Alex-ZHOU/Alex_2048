@@ -28,6 +28,8 @@ import android.widget.EditText;
 import android.widget.RelativeLayout;
 import com.alex_2048.utils.DeviceUuidFactory;
 
+import org.greenrobot.eventbus.EventBus;
+
 public class LoginInActivity2048 extends AppCompatActivity implements View.OnClickListener {
   private static final String TAG = "LoginInActivity";
 
@@ -47,7 +49,8 @@ public class LoginInActivity2048 extends AppCompatActivity implements View.OnCli
     setContentView(R.layout.activity_login);
 
     mDeviceUuidFactory = new DeviceUuidFactory(getApplicationContext());
-
+    //EventBus 练习 Register EventBus 注册事件总线
+    EventBus.getDefault().register(this);
     initView();
   }
 
@@ -76,12 +79,6 @@ public class LoginInActivity2048 extends AppCompatActivity implements View.OnCli
     mTouristButton.setOnClickListener(this);
   }
 
-  /**
-   * 点击监听事件
-   * Called when a view has been clicked.
-   *
-   * @param v The view that was clicked.
-   */
   @Override
   public void onClick(View v) {
     Intent intent;
@@ -113,5 +110,12 @@ public class LoginInActivity2048 extends AppCompatActivity implements View.OnCli
         finish();
         break;
     }
+  }
+
+  @Override
+  protected void onDestroy() {
+    super.onDestroy();
+    //EventBus 练习 Unregister EventBus 注销事件总线
+    EventBus.getDefault().unregister(this);
   }
 }
