@@ -30,6 +30,10 @@ import com.alex_2048.utils.DeviceUuidFactory;
 
 import org.greenrobot.eventbus.EventBus;
 
+
+
+
+//MAC 测试
 public class LoginInActivity2048 extends AppCompatActivity implements View.OnClickListener {
   private static final String TAG = "LoginInActivity";
 

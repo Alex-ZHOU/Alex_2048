@@ -1,102 +1,102 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:18:1-52:12
+ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:18:1-52:12
 	package
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:21:5-28
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:21:5-28
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:20:5-30
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:19:5-28
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:18:11-69
 uses-sdk
-ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:23:3-25:38
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta5] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.github.Raizlabs.DBFlow\dbflow\3.0.0-beta5\AndroidManifest.xml:7:5-9:41
+ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:23:3-25:38
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta5] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:25:7-36
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:25:7-36
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:24:7-32
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:24:7-32
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:27:3-72
+ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:27:3-72
 	android:name
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:27:20-70
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:27:20-70
 application
-ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:29:3-50:17
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta5] D:\AndroidStudioProjects\Alex_2048\app\build\intermediates\exploded-aar\com.github.Raizlabs.DBFlow\dbflow\3.0.0-beta5\AndroidManifest.xml:11:5-20
+ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:29:3-50:17
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:3.0.0-beta5] /Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/AndroidManifest.xml:11:5-20
 	android:label
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:32:7-39
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:32:7-39
 	android:allowBackup
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:30:7-33
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:30:7-33
 	android:icon
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:31:7-43
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:31:7-43
 	android:theme
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:33:7-48
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:33:7-48
 activity#com.alex_2048.LoginInActivity2048
-ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:35:5-44:16
+ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:35:5-44:16
 	android:label
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:37:9-41
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:37:9-41
 	android:name
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:36:9-44
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:36:9-44
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:39:7-43:23
+ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:39:7-43:23
 action#android.intent.action.MAIN
-ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:40:9-60
+ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:40:9-60
 	android:name
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:40:17-58
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:40:17-58
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:42:9-68
+ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:42:9-68
 	android:name
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:42:19-66
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:42:19-66
 activity#com.alex_2048.MainActivity2048
-ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:46:5-48:16
+ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:46:5-48:16
 	android:name
-		ADDED from D:\AndroidStudioProjects\Alex_2048\app\src\main\AndroidManifest.xml:47:9-41
+		ADDED from /Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/AndroidManifest.xml:47:9-41
