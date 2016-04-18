@@ -45,7 +45,7 @@ public class CheckerboardData2048 extends BaseModel {
     public String checkerboard;
 
     @Column(defaultValue = "")
-    private String useName;
+    public String useName;
 
     @Column(defaultValue = "")
     public String deviceUuid;
