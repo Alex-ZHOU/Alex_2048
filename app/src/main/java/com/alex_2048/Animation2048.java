@@ -35,6 +35,8 @@ public class Animation2048 extends Animation {
   private Handler2048 handler;
   private Context context;
 
+
+
   public Animation2048() {
     super();
   }

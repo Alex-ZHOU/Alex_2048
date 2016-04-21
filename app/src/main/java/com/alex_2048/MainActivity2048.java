@@ -18,7 +18,9 @@ package com.alex_2048;
 
 import android.alex.utils.TouchEventDetection;
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -26,7 +28,11 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.alex_2048.service.Service2048;
+
 public class MainActivity2048 extends Activity implements OnClickListener {
+
+    private final String TAG = "MainActivity2048";
 
     private TextView[][] tv = new TextView[4][4];
 
@@ -157,6 +163,8 @@ public class MainActivity2048 extends Activity implements OnClickListener {
 
     @Override
     protected void onDestroy() {
+        Log.i(TAG, "onDestroy: " + "stop service");
+
         super.onDestroy();
     }
 }

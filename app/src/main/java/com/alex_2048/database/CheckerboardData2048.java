@@ -35,12 +35,15 @@ public class CheckerboardData2048 extends BaseModel {
     @PrimaryKey(autoincrement = true)
     public long id;
 
+    //Current Scores
     @Column
     public int currentScores;
 
+    //Best Scores
     @Column
     public int bastScores;
 
+    //The checkerboard's data if the user never finished the game back he quit
     @Column(defaultValue = "")
     public String checkerboard;
 

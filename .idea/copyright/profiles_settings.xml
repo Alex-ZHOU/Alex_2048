@@ -1,7 +1,3 @@
 <component name="CopyrightManager">
-  <settings default="MacCopyright">
-    <module2copyright>
-      <element module="All" copyright="MacCopyright" />
-    </module2copyright>
-  </settings>
+  <settings default="" />
 </component>
