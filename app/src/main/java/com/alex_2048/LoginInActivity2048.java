@@ -53,8 +53,7 @@ public class LoginInActivity2048 extends AppCompatActivity implements View.OnCli
         setContentView(R.layout.activity_login);
 
         mDeviceUuidFactory = new DeviceUuidFactory(getApplicationContext());
-        //EventBus 练习 Register EventBus 注册事件总线
-        //EventBus.getDefault().register(this);
+
         initView();
     }
 
@@ -118,9 +117,6 @@ public class LoginInActivity2048 extends AppCompatActivity implements View.OnCli
 
     @Override
     protected void onDestroy() {
-
         super.onDestroy();
-        //EventBus 练习 Unregister EventBus 注销事件总线
-        //EventBus.getDefault().unregister(this);
     }
 }
