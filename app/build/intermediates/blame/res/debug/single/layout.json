@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
         "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
         "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -16,16 +16,16 @@
         "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
@@ -62,6 +62,10 @@
     {
         "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/activity_signin.xml",
+        "source": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/layout/activity_signin.xml"
     },
     {
         "merged": "/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",

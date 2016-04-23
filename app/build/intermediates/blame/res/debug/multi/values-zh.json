@@ -11,14 +11,7 @@
                     "endOffset": 89
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 2,
-                        "startOffset": 902,
-                        "endColumn": 36,
-                        "endOffset": 936
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 136
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 2,
-                        "startOffset": 760,
-                        "endColumn": 44,
-                        "endOffset": 802
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 183
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 2,
-                        "startOffset": 664,
-                        "endColumn": 44,
-                        "endOffset": 706
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 219
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 2,
-                        "startOffset": 1057,
-                        "endColumn": 33,
-                        "endOffset": 1088
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
@@ -83,17 +55,17 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 224,
-                    "endColumn": 35,
-                    "endOffset": 255
+                    "endColumn": 55,
+                    "endOffset": 275
                 },
                 "from": {
                     "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 30,
                         "startColumn": 2,
-                        "startOffset": 1130,
-                        "endColumn": 33,
-                        "endOffset": 1161
+                        "startOffset": 1053,
+                        "endColumn": 53,
+                        "endOffset": 1104
                     }
                 }
             },
@@ -101,133 +73,108 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 260,
-                    "endColumn": 52,
-                    "endOffset": 308
+                    "startOffset": 280,
+                    "endColumn": 35,
+                    "endOffset": 311
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 2,
-                        "startOffset": 709,
-                        "endColumn": 50,
-                        "endOffset": 757
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 313,
-                    "endColumn": 39,
-                    "endOffset": 348
+                    "startOffset": 316,
+                    "endColumn": 52,
+                    "endOffset": 364
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 2,
-                        "startOffset": 939,
-                        "endColumn": 37,
-                        "endOffset": 974
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 353,
+                    "startOffset": 369,
                     "endColumn": 39,
-                    "endOffset": 388
+                    "endOffset": 404
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 2,
-                        "startOffset": 864,
-                        "endColumn": 37,
-                        "endOffset": 899
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 393,
-                    "endColumn": 40,
-                    "endOffset": 429
+                    "startOffset": 409,
+                    "endColumn": 39,
+                    "endOffset": 444
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 2,
-                        "startOffset": 1091,
-                        "endColumn": 38,
-                        "endOffset": 1127
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 434,
-                    "endColumn": 41,
-                    "endOffset": 471
+                    "startOffset": 449,
+                    "endColumn": 40,
+                    "endOffset": 485
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 2,
-                        "startOffset": 1017,
-                        "endColumn": 39,
-                        "endOffset": 1054
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 476,
-                    "endColumn": 40,
-                    "endOffset": 512
+                    "startOffset": 490,
+                    "endColumn": 41,
+                    "endOffset": 527
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 2,
-                        "startOffset": 977,
-                        "endColumn": 38,
-                        "endOffset": 1013
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 517,
-                    "endColumn": 45,
-                    "endOffset": 558
+                    "startOffset": 532,
+                    "endColumn": 38,
+                    "endOffset": 566
                 },
                 "from": {
-                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 2,
-                        "startOffset": 820,
-                        "endColumn": 43,
-                        "endOffset": 861
-                    }
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endColumn": 40,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 45,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "/Users/apple/AndroidStudioProjects/Alex_2048/app/src/main/res/values-zh/strings.xml"
                 }
             }
         ]

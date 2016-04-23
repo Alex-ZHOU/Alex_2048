@@ -27,6 +27,8 @@
   <string name="account">Account</string>
   <string name="login_in">Login</string>
   <string name="tourist">Tourist</string>
+  <string name="sign_in">Sign in</string>
+  <string name="enter_password_again">Enter Password Again</string>
 
 
   <string name="scoreTitle">Score</string>

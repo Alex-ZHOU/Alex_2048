@@ -13,23 +13,16 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
-package com.alex_2048.database;
-
-import com.raizlabs.android.dbflow.annotation.Database;
+package com.alex_2048.utils;
 
 /**
- * Created by Alex on 2016/4/14.
+ * Created by Alex on 23/4/16.
  *
- * 创建数据库
- *
+ * 存放URL的工具类
  */
+public class Url2048 {
 
-@Database(name = Database2048.NAME, version = Database2048.VERSION)
-public class Database2048 {
+    // 我的电脑局域网连接的地址
+    public static final String URL = "http://192.168.1.103:8080/Alex_2048/Alex2048_Servlet";
 
-    //数据库名称
-    public static final String NAME = "Database2048";
-    //数据库版本号
-    public static final int VERSION = 1;
 }

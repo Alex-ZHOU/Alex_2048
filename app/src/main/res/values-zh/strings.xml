@@ -27,6 +27,8 @@
   <string name="account">帐号</string>
   <string name="login_in">登录</string>
   <string name="tourist">游客登录</string>
+  <string name="sign_in">注册</string>
+  <string name="enter_password_again">再次输入密码</string>
 
   <string name="scoreTitle">分数</string>
   <string name="back">返回</string>

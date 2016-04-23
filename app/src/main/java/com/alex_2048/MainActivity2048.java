@@ -18,9 +18,14 @@ package com.alex_2048;
 
 import android.alex.utils.TouchEventDetection;
 import android.app.Activity;
+import android.app.Dialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.support.v7.app.AlertDialog;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -58,6 +63,8 @@ public class MainActivity2048 extends Activity implements OnClickListener {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        String UUId = this.getIntent().getStringExtra("UUID");
 
         tv_score = (TextView) findViewById(R.id.tv_score);
         tv_addScore = (TextView) findViewById(R.id.tv_addScore);
@@ -163,8 +170,42 @@ public class MainActivity2048 extends Activity implements OnClickListener {
 
     @Override
     protected void onDestroy() {
-        Log.i(TAG, "onDestroy: " + "stop service");
-
+        Log.i(TAG, "onDestroy");
         super.onDestroy();
+    }
+
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+        if (keyCode == KeyEvent.KEYCODE_BACK && event.getRepeatCount() == 0) {
+            dialog();
+        }
+        return false;
+    }
+
+    protected void dialog() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity2048.this);
+        builder.setMessage("确认退出游戏吗？");
+
+        builder.setTitle("提示");
+
+        builder.setPositiveButton("确认", new DialogInterface.OnClickListener() {
+
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.dismiss();
+
+                MainActivity2048.this.finish();
+            }
+        });
+
+        builder.setNegativeButton("取消", new DialogInterface.OnClickListener() {
+
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.dismiss();
+            }
+        });
+
+        builder.create().show();
     }
 }

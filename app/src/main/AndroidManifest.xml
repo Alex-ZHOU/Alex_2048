@@ -23,7 +23,12 @@
         android:minSdkVersion="8"
         android:targetSdkVersion="21" />
 
+    // 获取手机的通话权限
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    // 获取访问当前网络状态权限
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    // 获取完全网络访问权限
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:name=".Application2048"
@@ -45,6 +50,10 @@
         <activity
             android:name=".MainActivity2048"
             android:exported="false" />
+
+        <activity
+            android:name=".SignInActivity2048"
+            android:exported="false"/>
 
         <service android:name=".service.Service2048" />
 

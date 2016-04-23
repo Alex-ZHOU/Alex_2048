@@ -4,12 +4,14 @@
     <string name="action_settings">设置</string>
     <string name="app_name">Alex 2048</string>
     <string name="back">返回</string>
+    <string name="enter_password_again">再次输入密码</string>
     <string name="exit">退出</string>
     <string name="hello_world">Hello world!</string>
     <string name="login_in">登录</string>
     <string name="password">密码</string>
     <string name="restart">重新开始</string>
     <string name="scoreTitle">分数</string>
+    <string name="sign_in">注册</string>
     <string name="tourist">游客登录</string>
     <string name="welcome">Alex 2048</string>
 </resources>

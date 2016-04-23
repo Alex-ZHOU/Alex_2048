@@ -283,12 +283,14 @@
     <string name="back">Back</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="enter_password_again">Enter Password Again</string>
     <string name="exit">Exit</string>
     <string name="hello_world">Hello world!</string>
     <string name="login_in">Login</string>
     <string name="password">Password</string>
     <string name="restart">Restart</string>
     <string name="scoreTitle">Score</string>
+    <string name="sign_in">Sign in</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tourist">Tourist</string>
     <string name="welcome">Welcome Alex 2048</string>

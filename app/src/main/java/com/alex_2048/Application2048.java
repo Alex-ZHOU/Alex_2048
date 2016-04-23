@@ -21,6 +21,7 @@ import android.content.Intent;
 import android.util.Log;
 
 import com.alex_2048.service.Service2048;
+import com.raizlabs.android.dbflow.config.FlowManager;
 
 /**
  * Created by Alex on 18/4/16.
@@ -38,6 +39,8 @@ public class Application2048 extends Application {
         //Start Service
         Intent intent = new Intent(this, Service2048.class);
         startService(intent);
+        // Init Database
+        FlowManager.init(this);
     }
 
 
