@@ -9,7 +9,15 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.alex_2048.database.TouristData2048;
+import com.alex_2048.utils.HttpUtils;
+import com.alex_2048.utils.Url2048;
 import com.raizlabs.android.dbflow.sql.language.Select;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class Handler2048 extends Handler {
 
@@ -17,6 +25,7 @@ public class Handler2048 extends Handler {
 
     public static int INIT = 204820;
     public static int ToutistSaveData = 204820 - 1;
+    public static int UserSaveData = 204820 - 3;
     public static int ToutistRestart = 204820 - 2;
 
     private TextView tv[][] = new TextView[4][4];
@@ -29,6 +38,12 @@ public class Handler2048 extends Handler {
 
     private int score = 0;
     private int bestScore = 0;
+
+    private String UserName;
+
+    public void setUserName(String UserName){
+        this.UserName = UserName;
+    }
 
     public Handler2048(TextView[][] tv, TextView tv_score, TextView tv_bestScore, TextView tv_addScore, int[][] data,
                        Algorithm2048 algorithm2048, int score, int bestScore) {
@@ -93,6 +108,51 @@ public class Handler2048 extends Handler {
             touristData2048.checkerboard = temp;
             touristData2048.update();
         }
+
+
+        if (msg.what == UserSaveData){
+
+
+
+            String temp = "";
+            for (int i = 0; i < data.length; i++) {
+                for (int j = 0; j < data[i].length; j++) {
+                    temp += data[i][j] + "|";
+                }
+            }
+            Log.i(TAG, "onPause: User"+temp+" "+score+" " +bestScore);
+            JSONObject obj = new JSONObject();
+
+            try {
+                obj.put("CurrentScores",score);
+                obj.put("BestScore",bestScore);
+                obj.put("Username", this.UserName);
+                obj.put("CheckerBoard", temp);
+
+                HttpUtils httpUtils = new HttpUtils() {
+                    @Override
+                    public void finish() {
+
+                    }
+
+                    @Override
+                    public void begin() {
+
+                    }
+                };
+
+                Map<String, String> params = new HashMap<String, String>();
+                params.put("UserData", obj.toString());
+                params.put("Type", "UserData");
+                httpUtils.post(Url2048.URL, params, "utf-8");
+                httpUtils.execute();
+
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+        }
+
+
 
         tv_addScore.setText("+" + algorithm2048.getAddScore());
         tv_addScore.setVisibility(View.GONE);

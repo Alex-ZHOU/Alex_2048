@@ -38,6 +38,7 @@
         android:theme="@style/AppThemeNoTitleBar">
         <activity
             android:name=".LoginInActivity2048"
+            android:screenOrientation="portrait"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -49,10 +50,12 @@
 
         <activity
             android:name=".MainActivity2048"
+            android:screenOrientation="portrait"
             android:exported="false" />
 
         <activity
             android:name=".SignInActivity2048"
+            android:screenOrientation="portrait"
             android:exported="false"/>
 
         <service android:name=".service.Service2048" />

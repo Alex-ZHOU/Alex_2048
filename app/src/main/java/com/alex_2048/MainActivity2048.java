@@ -63,9 +63,11 @@ public class MainActivity2048 extends Activity implements OnClickListener {
     private Handler2048 handler2048;
 
     private String mType;
+    private String mUsername;
     private String mCheckerBoard;
     private int mCurrentScores;
     private int mBastScores;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -74,8 +76,9 @@ public class MainActivity2048 extends Activity implements OnClickListener {
 
         mType = this.getIntent().getStringExtra("Type");
         mCheckerBoard = this.getIntent().getStringExtra("CheckerBoard");
-        mCurrentScores = this.getIntent().getIntExtra("CurrentScores",0);
-        mBastScores = this.getIntent().getIntExtra("BastScores",0);
+        mUsername = this.getIntent().getStringExtra("Username");
+        mCurrentScores = this.getIntent().getIntExtra("CurrentScores", 0);
+        mBastScores = this.getIntent().getIntExtra("BastScores", 0);
 
         if (mCheckerBoard != null) {
             String[] checkerBoardData = mCheckerBoard.split("\\|");
@@ -83,12 +86,13 @@ public class MainActivity2048 extends Activity implements OnClickListener {
 //            for (int i = 0;i<checkerBoardData.length;i++){
 //                Log.i(TAG, "onCreate: "+checkerBoardData[i]);
 //            }
+            if (checkerBoardData.length == 16) {
+                for (int i = 0; i < data.length; i++) {
+                    for (int j = 0; j < data[i].length; j++) {
 
-            for (int i = 0; i < data.length; i++) {
-                for (int j = 0; j < data[i].length; j++) {
-
-                    data[i][j] = Integer.parseInt(checkerBoardData[temp]);
-                    temp++;
+                        data[i][j] = Integer.parseInt(checkerBoardData[temp]);
+                        temp++;
+                    }
                 }
             }
         }
@@ -124,18 +128,18 @@ public class MainActivity2048 extends Activity implements OnClickListener {
         touchEventDetection = new TouchEventDetection(this);
         algorithm2048 = new Algorithm2048();
 
-        CurrentScores =mCurrentScores;
+        CurrentScores = mCurrentScores;
 
         BastScorses = mBastScores;
 
-        tv_BestScore.setText(BastScorses+"");
+        tv_BestScore.setText(BastScorses + "");
         tv_type.setText(mType);
 
 
-        handler2048 = new Handler2048(tv, tv_score, tv_BestScore,tv_addScore, data, algorithm2048, CurrentScores, BastScorses);
+        handler2048 = new Handler2048(tv, tv_score, tv_BestScore, tv_addScore, data, algorithm2048, CurrentScores, BastScorses);
         if (CurrentScores == 0) {
             init2();
-        }else{
+        } else {
             handler2048.sendEmptyMessage(Handler2048.ToutistRestart);
         }
 
@@ -151,6 +155,10 @@ public class MainActivity2048 extends Activity implements OnClickListener {
 
         if (mType.equals("Tourist")) {
             handler2048.sendEmptyMessage(Handler2048.ToutistSaveData);
+        }
+        else if(mType.equals("User")){
+            handler2048.setUserName(mUsername);
+            handler2048.sendEmptyMessage(Handler2048.UserSaveData);
         }
         super.onPause();
     }
