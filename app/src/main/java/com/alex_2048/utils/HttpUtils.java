@@ -14,7 +14,7 @@ import java.util.Map;
 /**
  * Created by Alex on 24/4/16.
  * <p/>
- * 网络请求工具
+ * 网络请求工具类
  */
 public class HttpUtils {
 

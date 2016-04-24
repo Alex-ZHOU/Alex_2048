@@ -18,11 +18,8 @@ package com.alex_2048;
 
 import android.alex.utils.TouchEventDetection;
 import android.app.Activity;
-import android.app.Dialog;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.support.v7.app.AlertDialog;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -33,7 +30,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.alex_2048.service.Service2048;
+import com.alex_2048.database.TouristData2048;
+import com.raizlabs.android.dbflow.sql.language.Select;
 
 public class MainActivity2048 extends Activity implements OnClickListener {
 
@@ -45,6 +43,10 @@ public class MainActivity2048 extends Activity implements OnClickListener {
 
     private TextView tv_addScore;
 
+    private TextView tv_BestScore;
+
+    private TextView tv_type;
+
     private Button btn_restart;
 
     private Button btn_back;
@@ -52,22 +54,50 @@ public class MainActivity2048 extends Activity implements OnClickListener {
     private int[][] data = new int[4][4];
 
 
-    private int score = 0;
+    private int CurrentScores = 0;
+    private int BastScorses = 0;
 
     private TouchEventDetection touchEventDetection;
     private Algorithm2048 algorithm2048;
 
     private Handler2048 handler2048;
 
+    private String mType;
+    private String mCheckerBoard;
+    private int mCurrentScores;
+    private int mBastScores;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String UUId = this.getIntent().getStringExtra("UUID");
+        mType = this.getIntent().getStringExtra("Type");
+        mCheckerBoard = this.getIntent().getStringExtra("CheckerBoard");
+        mCurrentScores = this.getIntent().getIntExtra("CurrentScores",0);
+        mBastScores = this.getIntent().getIntExtra("BastScores",0);
+
+        if (mCheckerBoard != null) {
+            String[] checkerBoardData = mCheckerBoard.split("\\|");
+            int temp = 0;
+//            for (int i = 0;i<checkerBoardData.length;i++){
+//                Log.i(TAG, "onCreate: "+checkerBoardData[i]);
+//            }
+
+            for (int i = 0; i < data.length; i++) {
+                for (int j = 0; j < data[i].length; j++) {
+
+                    data[i][j] = Integer.parseInt(checkerBoardData[temp]);
+                    temp++;
+                }
+            }
+        }
+
 
         tv_score = (TextView) findViewById(R.id.tv_score);
         tv_addScore = (TextView) findViewById(R.id.tv_addScore);
+        tv_type = (TextView) findViewById(R.id.id_type_tv);
+        tv_BestScore = (TextView) findViewById(R.id.tv_bestscore);
         tv[0][0] = (TextView) findViewById(R.id.tv_0_0);
         tv[0][1] = (TextView) findViewById(R.id.tv_0_1);
         tv[0][2] = (TextView) findViewById(R.id.tv_0_2);
@@ -93,20 +123,41 @@ public class MainActivity2048 extends Activity implements OnClickListener {
 
         touchEventDetection = new TouchEventDetection(this);
         algorithm2048 = new Algorithm2048();
-        handler2048 = new Handler2048(tv, tv_score, tv_addScore, data, algorithm2048, score);
 
-        init2();
+        CurrentScores =mCurrentScores;
+
+        BastScorses = mBastScores;
+
+        tv_BestScore.setText(BastScorses+"");
+        tv_type.setText(mType);
+
+
+        handler2048 = new Handler2048(tv, tv_score, tv_BestScore,tv_addScore, data, algorithm2048, CurrentScores, BastScorses);
+        if (CurrentScores == 0) {
+            init2();
+        }else{
+            handler2048.sendEmptyMessage(Handler2048.ToutistRestart);
+        }
+
     }
 
     public void init2() {
         handler2048.sendEmptyMessage(Handler2048.INIT);
-        score = 0;
+        CurrentScores = 0;
+    }
+
+    @Override
+    protected void onPause() {
+
+        if (mType.equals("Tourist")) {
+            handler2048.sendEmptyMessage(Handler2048.ToutistSaveData);
+        }
+        super.onPause();
     }
 
     @Override
     public boolean onTouchEvent(MotionEvent event) {
 
-        // ViewDragHelper.
 
         switch (touchEventDetection.getAction(event)) {
 
@@ -154,18 +205,36 @@ public class MainActivity2048 extends Activity implements OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.btn_restart:
-                init2();
+                AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity2048.this);
+                builder.setMessage("确认退出重新开始吗？");
+
+                builder.setTitle("提示");
+
+                builder.setPositiveButton("确认", new DialogInterface.OnClickListener() {
+
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        dialog.dismiss();
+                        init2();
+                    }
+                });
+
+                builder.setNegativeButton("取消", new DialogInterface.OnClickListener() {
+
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        dialog.dismiss();
+                    }
+                });
+
+                builder.create().show();
+
                 break;
             case R.id.btn_back:
-                Toast.makeText(getApplicationContext(), "按钮无效", Toast.LENGTH_SHORT).show();
+                dialog();
+
                 break;
         }
-        //if (v.equals(btn_restart)) {
-        //  init2();
-        //}
-        //if (v.equals(btn_back)) {
-        //  Toast.makeText(getApplicationContext(), "按钮无效", Toast.LENGTH_SHORT).show();
-        //}
     }
 
     @Override

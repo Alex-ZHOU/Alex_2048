@@ -4,6 +4,7 @@
     <string name="action_settings">设置</string>
     <string name="app_name">Alex 2048</string>
     <string name="back">返回</string>
+    <string name="best_score_title">最高分</string>
     <string name="enter_password_again">再次输入密码</string>
     <string name="exit">退出</string>
     <string name="hello_world">Hello world!</string>

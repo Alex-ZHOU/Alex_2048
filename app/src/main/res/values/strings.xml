@@ -32,6 +32,7 @@
 
 
   <string name="scoreTitle">Score</string>
+  <string name="best_score_title">Best Score</string>
   <string name="back">Back</string>
   <string name="restart">Restart</string>
   <string name="exit">Exit</string>

@@ -1,29 +1,21 @@
 package com.alex_2048;
 
-import android.app.Activity;
-import android.net.Network;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.alex_2048.database.CheckerboardData2048;
 import com.alex_2048.utils.HttpUtils;
 import com.alex_2048.utils.NetworkCheck;
 import com.alex_2048.utils.Url2048;
+import com.raizlabs.android.dbflow.sql.language.Select;
 
-import java.io.BufferedInputStream;
-import java.io.BufferedReader;
-import java.io.DataOutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -44,13 +36,19 @@ public class SignInActivity2048 extends AppCompatActivity implements View.OnClic
     private Button mSignInButton;
 
 
+
+    List<CheckerboardData2048> mCheckerboardData2048List;
+
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signin);
 
         initView();
+
     }
+
 
     private void initView() {
         mAccountEditText = (EditText) findViewById(R.id.id_account_ed);
@@ -63,6 +61,7 @@ public class SignInActivity2048 extends AppCompatActivity implements View.OnClic
         }
 
     }
+
 
     @Override
     public void onClick(View view) {
@@ -96,11 +95,10 @@ public class SignInActivity2048 extends AppCompatActivity implements View.OnClic
             return;
         }
 
-
         Map<String, String> params = new HashMap<String, String>();
         params.put("Account", account);
         params.put("Password", password);
-        Log.i(TAG, "onClick: "+HttpUtils.post(Url2048.URL,params,"utf-8"));;
+        HttpUtils.post(Url2048.URL, params, "utf-8");
 
 
     }

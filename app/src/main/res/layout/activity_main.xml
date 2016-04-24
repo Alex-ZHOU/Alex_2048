@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~ Copyright 2016 AlexZHOU
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
@@ -24,91 +23,142 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.alex_2048.MainActivity2048"
-    >
-
-  <LinearLayout
-      android:layout_width="match_parent"
-      android:layout_height="80dp"
-      android:baselineAligned="false"
-      android:orientation="horizontal"
-      >
+    tools:context="com.alex_2048.MainActivity2048">
 
     <LinearLayout
-        android:layout_width="0dp"
-        android:layout_height="match_parent"
-        android:layout_weight="2"
-        android:orientation="vertical"
-        >
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
 
-      <TextView
-          android:id="@+id/tv_scoreTitle"
-          android:layout_width="match_parent"
-          android:layout_height="45dp"
-          android:gravity="center"
-          android:text="@string/scoreTitle"
-          android:textSize="22sp"
-          android:textStyle="bold"
-          />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:orientation="vertical">
 
-      <RelativeLayout
-          android:layout_width="match_parent"
-          android:layout_height="35dp"
-          android:gravity="center_horizontal"
-          >
-        <!-- This TextView show the current score -->
-        <TextView
-            android:id="@+id/tv_score"
-            android:layout_width="match_parent"
+            <TextView
+                android:id="@+id/tv_scoreTitle"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:gravity="center"
+                android:text="@string/scoreTitle"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:gravity="center_horizontal">
+                <!-- This TextView show the current score -->
+                <TextView
+                    android:id="@+id/tv_score"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:gravity="center" />
+                <!--增加分数时显示动画,暂未在代码里实现-->
+                <TextView
+                    android:id="@+id/tv_addScore"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:gravity="center"
+                    android:layout_toEndOf="@+id/tv_score"
+                    android:layout_toRightOf="@+id/tv_score"
+                    android:textColor="#ff0000" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_centerHorizontal="true"
-            android:layout_centerInParent="true"
-            android:gravity="center"
-            />
-        <!--增加分数时显示动画,暂未在代码里实现-->
-        <TextView
-            android:id="@+id/tv_addScore"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_alignParentRight="true"
-            android:gravity="center"
-            android:textColor="#ff0000"
-            />
-      </RelativeLayout>
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_basescoretitle"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:gravity="center"
+                android:text="@string/best_score_title"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:gravity="center_horizontal">
+                <!-- This TextView show the current score -->
+                <TextView
+                    android:id="@+id/tv_bestscore"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:text="asdjkh"
+                    android:gravity="center" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
     </LinearLayout>
 
-    <LinearLayout
-        android:layout_width="0dp"
-        android:layout_height="match_parent"
-        android:layout_weight="2"
-        android:orientation="vertical"
-        >
-
-      <Button
-          android:id="@+id/btn_restart"
-          android:layout_width="wrap_content"
-          android:layout_height="40dp"
-          android:layout_gravity="center_horizontal"
-          android:text="@string/restart"
-          />
-
-      <Button
-          android:id="@+id/btn_back"
-          android:layout_width="wrap_content"
-          android:layout_height="40dp"
-          android:layout_gravity="center_horizontal"
-          android:text="@string/exit"
-          />
-    </LinearLayout>
-  </LinearLayout>
-
-  <!-- 这就是棋盘 -->
+    <!-- 这就是棋盘 -->
 
     <include
         android:id="@+id/relativeLayout_chessGame"
+        layout="@layout/chessgame"
         android:layout_width="290dp"
         android:layout_height="290dp"
-        android:layout_centerInParent="true"
-        layout="@layout/chessgame"/>
+        android:layout_centerInParent="true" />
+
+    <!--棋盘下方信息-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@id/relativeLayout_chessGame"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/id_type_tv"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/app_name"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_marginLeft="30dp"
+                android:layout_marginStart="30dp"
+                android:id="@+id/btn_back"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:text="@string/exit" />
+
+            <Button
+                android:layout_marginRight="30dp"
+                android:layout_marginEnd="30dp"
+                android:id="@+id/btn_restart"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:text="@string/restart" />
+
+        </LinearLayout>
+
+    </LinearLayout>
 
 </RelativeLayout>

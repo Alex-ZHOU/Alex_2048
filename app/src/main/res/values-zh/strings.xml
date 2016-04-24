@@ -31,6 +31,7 @@
   <string name="enter_password_again">再次输入密码</string>
 
   <string name="scoreTitle">分数</string>
+  <string name="best_score_title">最高分</string>
   <string name="back">返回</string>
   <string name="restart">重新开始</string>
   <string name="exit">退出</string>

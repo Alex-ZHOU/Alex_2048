@@ -24,13 +24,13 @@ import com.raizlabs.android.dbflow.structure.BaseModel;
 
 /**
  * Created by Alex on 2016/4/14.
- *
+ * <p/>
  * 用户数据項
  */
 
 @ModelContainer
 @Table(database = Database2048.class)
-public class UserData2048 extends BaseModel{
+public class TouristData2048 extends BaseModel {
 
     //自动生成内键
     @PrimaryKey(autoincrement = true)
@@ -39,13 +39,17 @@ public class UserData2048 extends BaseModel{
     @Column(defaultValue = "")
     public String deviceUuid;
 
+    //The checkerboard's data if the user never finished the game back he quit
     @Column(defaultValue = "")
-    public String userName;
+    public String checkerboard;
 
-    @Column(defaultValue = "")
-    public String passwrod;
-
+    //Current Scores
     @Column
-    public boolean isLogin;
+    public int currentScores;
+
+    //Best Scores
+    @Column
+    public int bastScores;
+
 
 }
