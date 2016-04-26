@@ -124,9 +124,9 @@ public class SignInActivity2048 extends AppCompatActivity implements View.OnClic
                 Log.i(TAG, "finish");
                 result = this.getResult();
                 Log.i(TAG, "finish: "+result);
-                if (result.equals("账号已经存在")) {
-                    Toast.makeText(mContext, "两次输入的密码不一致", Toast.LENGTH_LONG).show();
-                } else if (result.equals("注册成功")) {
+                if (result.equals("AccountExisted")) {
+                    Toast.makeText(mContext, "账号已经存在", Toast.LENGTH_LONG).show();
+                } else if (result.equals("SignInSucceed")) {
                     Toast.makeText(mContext, "注册成功", Toast.LENGTH_LONG).show();
                     isSuccee = true;
                     self.finish();
