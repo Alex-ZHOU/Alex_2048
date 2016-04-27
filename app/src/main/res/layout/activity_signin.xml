@@ -5,10 +5,10 @@
     android:orientation="vertical">
 
     <ImageView
-        android:contentDescription="@string/sign_in"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/sign_in"
         android:paddingTop="100dp"
         android:src="@drawable/ic_alex2048" />
 
@@ -29,8 +29,11 @@
                 android:layout_height="match_parent"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
+                android:digits="0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
                 android:hint="@string/account"
-                android:inputType="textEmailAddress" />
+                android:maxLength="16"
+                android:inputType="textEmailAddress"
+                android:singleLine="true" />
 
         </android.support.design.widget.TextInputLayout>
 
@@ -47,8 +50,11 @@
                 android:layout_height="match_parent"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
+                android:digits="0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
                 android:hint="@string/password"
-                android:inputType="textPassword" />
+                android:maxLength="16"
+                android:inputType="textPassword"
+                android:singleLine="true" />
 
         </android.support.design.widget.TextInputLayout>
 
@@ -64,8 +70,11 @@
                 android:layout_height="match_parent"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
+                android:digits="0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
                 android:hint="@string/enter_password_again"
-                android:inputType="textPassword" />
+                android:inputType="textPassword"
+                android:maxLength="16"
+                android:singleLine="true" />
 
         </android.support.design.widget.TextInputLayout>
 
@@ -75,7 +84,6 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:text="@string/sign_in"
-            />
+            android:text="@string/sign_in" />
     </LinearLayout>
 </LinearLayout>

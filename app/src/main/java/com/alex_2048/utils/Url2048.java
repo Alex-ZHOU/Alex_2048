@@ -23,7 +23,7 @@ package com.alex_2048.utils;
 public class Url2048 {
 
     // 我的电脑局域网连接的地址
-    //public static final String URL = "http://192.168.1.101:8080/Alex_2048/Alex2048_Servlet";
+    //public static final String URL = "http://192.168.1.105:8080/Alex_2048/Alex2048_Servlet";
 
     // 一楼实验室网址
     //public static final String URL = "http://192.168.1.124:8080/Alex_2048/Alex2048_Servlet";

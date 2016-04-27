@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_86c2067e911c1cefadab32158c09110437b5d7ec.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_bc5a0d485a211ca7be47f303747376c91e1eff79.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1c22a78d3134f31a72ab20f24f1736906f1da611">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/com.github.Raizlabs.DBFlow-dbflow-3.0.0-beta5_9ea8e7b9f8247b10bd84e088a7f00dc44630d140.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_1de9505bc273b1e3cd4ff08fe0f483506c48db59.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/libs/Alex_utils.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a1fd61006c471071ecd98e230a82ceb909cb85e1">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/Alex_utils_62217dc460aafcd317d9667d7e2a6a46ac89b6be.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_963fbb82eb9d2ce762ab33a45cebe7e28af3db8b.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_ab2cd72a299d02c25639d436e745932a99ff6e31.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="879dfb212f54c1be6a883c4f4cf88599f1e4ef9e">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_17b14b22c684ef63cd6883709507c2161744ce51.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_68e3fce46f71cc01b790794cdbfe1c060852f676.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_8a3efe42349ecddf925e73ac9140d7ab20fbc29c.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_9671a2e929ac482a2f43b014a15d648de7923989.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_646921a374517b50be1604bdfdb389595a7777ea.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow-core/3.0.0-beta5/25f731527e77fec5e8ddcefda575d32656922a7d/dbflow-core-3.0.0-beta5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="25f731527e77fec5e8ddcefda575d32656922a7d">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/dbflow-core-3.0.0-beta5_149c00d270e443425db630f14b10fa8e160711ab.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b804560afce415b5ae30937cd0753df576134183">
+        <dex dex="/Users/apple/AndroidStudioProjects/Alex_2048/app/build/intermediates/pre-dexed/debug/instant-run_7686bc3106bc90f02302887c98ac18b269f18e06.jar" />
+    </item>
+
+</items>
